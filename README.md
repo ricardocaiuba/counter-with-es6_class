@@ -6,7 +6,7 @@ training Owner: Tulio Fária (https://github.com/tuliofaria)
 
 ---
 
-Nesse repositório, mostra de forma bem simples como implementar um contador utilizaando a classe ES6 com ReactJS
+Nesse repositório, mostra de forma bem simples como implementar um contador utilizando a classe ES6 com ReactJS
 
 Qualquer dúvida:
 Ricardo Rodrigues - ricardo.caiuba@gmail.com
